@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab5</string>
+    <string name="point">point</string>
+    <string name="line">line</string>
+    <string name="rect">rectangle</string>
+    <string name="ellipse">ellipse</string>
+    <string name="dumbbell">dumbbell</string>
+    <string name="cube">cube</string>
+    <string name="show_hide_table">show/hide table</string>
+</resources>
